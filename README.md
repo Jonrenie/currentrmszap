@@ -1,4 +1,4 @@
-# currentrmszap
+# currentrmszap - edit
 Current-RMS Zap connects this rental management web app talk to the Zapier code-free automation API
 
 # Current-RMS Zap 
